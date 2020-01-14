@@ -5,8 +5,5 @@ to visualize the changes in temperature for Germany.
 ### Germany
 ![Germany](./stripes_germany.png)
 
-### Berlin/Brandenburg
-![Berlin/Brandenburg](./stripes_berlin_brandenburg.png)
-
-### Bremen
-![Bremen](./stripes_bremen.png)
+### Germany (1985-2019)
+![Germany](./stripes_germany_1985-2019.png)
